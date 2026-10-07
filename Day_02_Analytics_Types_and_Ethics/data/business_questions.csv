@@ -1,7 +1,7 @@
 question_id,business_question,analytics_type_descriptive_diagnostic_predictive_prescriptive
 1,What was our total revenue in August 2025?,descriptive
 2,Why did average delivery time increase in Mumbai last month?,diagnostic
-3,Which customers are most likely to churn next month?,
+3,Which customers are most likely to churn next month?,predictive
 4,What discount should we offer each customer to maximise retention?,
 5,How many orders were cancelled yesterday?,
 6,Which restaurant will have the highest demand this weekend?,
