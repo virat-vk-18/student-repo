@@ -1,6 +1,6 @@
 question_id,business_question,analytics_type_descriptive_diagnostic_predictive_prescriptive
 1,What was our total revenue in August 2025?,
-2,Why did average delivery time increase in Mumbai last month?,
+2,Why did average delivery time increase in Mumbai last month?,predec
 3,Which customers are most likely to churn next month?,
 4,What discount should we offer each customer to maximise retention?,
 5,How many orders were cancelled yesterday?,
@@ -13,4 +13,4 @@ question_id,business_question,analytics_type_descriptive_diagnostic_predictive_p
 12,Will Hyderabad cross 10000 orders next month if the current trend holds?,
 13,Which two factors best explain why some riders are consistently late?,
 14,Should we open our next dark store in Pune or Chennai first?,
-15,Is the Q3 drop in active customers a seasonal dip or the start of real churn?,
+15,Is the Q3 drop in active customers a seasonal dip or the start of real churn?,fjekhaulekhruk
