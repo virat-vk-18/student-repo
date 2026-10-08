@@ -1,5 +1,5 @@
 customer_id,customer_name,email,phone,date_of_birth,signup_date,city
-C0001,Krishna Sharma,krishna.sharma760@example.com,+91-7901242098,1996-12-18,2024-09-23,Mumbai
+C0001,Krishna Sharma,krishna.sharma760@example.com,+91-7901242098,1996-12-18,2024-09-23,Delhi
 C0002,Sai Das,sai.das433@example.com,+91-7104113905,1994-01-18,2024-07-18,Mumbai
 C0003,Saanvi Ahuja,saanvi.ahuja666@example.com,+91-9298181426,1983-01-25,2025-01-01,Mumbai
 C0004,Ananya Ahuja,ananya.ahuja433@example.com,+91-8114946421,1985-02-03,2024-08-19,Mumbai
@@ -59,3 +59,4 @@ C0057,Aditya Mehta,aditya.mehta487@example.com,+91-9003019545,1993-04-23,2025-01
 C0058,Rahul Khan,rahul.khan410@example.com,+91-7799429342,1999-02-25,2025-05-02,Chennai
 C0059,Varun Mehta,varun.mehta181@example.com,+91-9634977889,2004-02-15,2025-01-24,Bengaluru
 C0060,Ishaan Desai,ishaan.desai684@example.com,+91-8740483259,2003-08-20,2025-04-01,Delhi
+kkk
